@@ -31,7 +31,7 @@ main {
 }
 
 /* Zelf-toegevoegde font
-Bron: https://www.youtube.com/watch?v=4yiJyHAn9EI*/
+Bron: https://www.youtube.com/watch?v=4yiJyHAn9EI & https://stackoverflow.com/questions/71330969/how-to-load-custom-font-on-github-pages */
 @font-face {
   font-family: stora;
   src:url(../detijdmachine/stora.ttf) format:('truetype');
