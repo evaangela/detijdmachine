@@ -107,13 +107,14 @@ p {
 
 .knop a {
   text-decoration: none;
+  color: white;
 }
 
 .knop a:visited {
   color: white;
 }
 
-/* a ofwel de links */
+/* a ofwel alle links */
 a {
   color: #221c63;
 }
