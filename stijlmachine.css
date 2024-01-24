@@ -34,7 +34,7 @@ main {
 Bron: https://www.youtube.com/watch?v=4yiJyHAn9EI*/
 @font-face {
   font-family: stora;
-  src:url(stora.ttf);
+  src:url(../detijdmachine/stora.ttf) format:('truetype');
 }
 
 /* Headers */
